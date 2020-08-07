@@ -1,0 +1,31 @@
+ASSIGNMENT: REPRESENTATION 101
+
+Purpose:    Implement C++ programs to convert integers and fractions
+            between bases.
+
+KEY PROGRAMS in Codie REPRESENTATION101 project. Your program should
+behave pretty much the same.
+
+   base2decimal.crun*
+   base2decimalFraction.crun*
+   decimal2base.crun*
+   decimal2baseFraction.crun*
+
+
+Your programs (see group assignments):
+   base2decimal.cpp - convert base B integer to decimal integer.
+   decimal2base.cpp - convert decimal integer to base B integer.
+
+   decimal2baseFraction.cpp - convert decimal fraction to base B fraction.
+   base2decimalFraction.cpp - convert base B fraction to decimal fraction.
+
+
+INDIVIDUAL RESPONSIBILITY:
+
+   1. Be able to perform hand calculations.
+   2. Be able to write code for at least one integer (fraction) conversion.
+
+
+DEPLOY your solutions to: CODIO_REP101  directory.
+
+
